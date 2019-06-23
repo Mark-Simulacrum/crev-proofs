@@ -1,0 +1,16 @@
+-----BEGIN CREV TRUST -----
+version: -1
+date: "2019-06-23T18:06:10.834712-04:00"
+from:
+  id-type: crev
+  id: aD4K0g6AcSKUDp3VPF7u4hM94zEkqjWeRQwmabLBcV0
+  url: "https://github.com/Mark-Simulacrum/crev-proofs"
+ids:
+  - id-type: crev
+    id: FYlr8YoYGVvDwHQxqEIs89reKKDy-oWisoO0qXXEfHE
+    url: "https://github.com/dpc/crev-proofs"
+trust: medium
+-----BEGIN CREV TRUST SIGNATURE-----
+hoP8j43XRhVXJbyxrrmU8FqZ3BvXmtV234zozuybHlm40Z19ZGwCs2UMU-Ap5DAvgsjRbter8IyAQ-pjVfPcDg
+-----END CREV TRUST-----
+
