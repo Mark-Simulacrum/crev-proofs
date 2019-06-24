@@ -46,3 +46,19 @@ trust: none
 0Thh9Qyn5bs677q0BC23tdinLom73IivK8Pxgpzct4nPfwWf_dwg_IThJsIaRiKE7mlaBiCRc5LyjbMHhJt4Dg
 -----END CREV TRUST-----
 
+-----BEGIN CREV TRUST -----
+version: -1
+date: "2019-06-23T20:47:51.314740-04:00"
+from:
+  id-type: crev
+  id: aD4K0g6AcSKUDp3VPF7u4hM94zEkqjWeRQwmabLBcV0
+  url: "https://github.com/Mark-Simulacrum/crev-proofs"
+ids:
+  - id-type: crev
+    id: FYlr8YoYGVvDwHQxqEIs89reKKDy-oWisoO0qXXEfHE
+    url: "https://github.com/dpc/crev-proofs"
+trust: medium
+-----BEGIN CREV TRUST SIGNATURE-----
+ysAfxRNE1X3_AcPbRsgPJ_-XfzOJkQvC04R442PbadTVV-ec-eh1KnPus6ojPNis0ENYEUo5w6RCDSs2MwE2Bw
+-----END CREV TRUST-----
+
