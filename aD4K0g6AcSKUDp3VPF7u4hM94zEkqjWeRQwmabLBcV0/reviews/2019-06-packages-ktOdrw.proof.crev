@@ -40,3 +40,24 @@ review:
 13yzei8nlwdcIOONYc0SM8231VQmxG1xwPbXBNBEFbTu41j6imQCNAozDBi02BwkUGJfLCXzlYUEEckedgPyBA
 -----END CREV PACKAGE REVIEW-----
 
+-----BEGIN CREV PACKAGE REVIEW-----
+version: -1
+date: "2019-06-24T08:28:12.841143-04:00"
+from:
+  id-type: crev
+  id: aD4K0g6AcSKUDp3VPF7u4hM94zEkqjWeRQwmabLBcV0
+  url: "https://github.com/Mark-Simulacrum/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: bitflags
+  version: 1.1.0
+  revision: fffdfe8379a745c88d6cbc17b4454789b499ee56
+  digest: ANh68S-S2vsKWJFqICgFjYMGmpAyZxAiVlAuAA2w_Nc
+review:
+  thoroughness: low
+  understanding: high
+  rating: strong
+-----BEGIN CREV PACKAGE REVIEW SIGNATURE-----
+ylNMXB744uhUT0UvucOoG1i2z4sgxGBhJXCOWLy53cXR3fK68pCnqvckedcHM3ObEReaYIFPjUq06Bn-WrPhAg
+-----END CREV PACKAGE REVIEW-----
+
